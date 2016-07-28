@@ -1,7 +1,7 @@
 # Control roomba by sending serial commands with Ruby
 
 ## Preparation
-    sudo ruby gem install serialport
+    sudo gem install serialport
 
 ## Send Command
 
